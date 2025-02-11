@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#myid {
+  background-color: blue !important;
+}
+
+.myclass {
+  background-color: gray !important;
+}
+
+p {
+  background-color: red !important;
+}
+</style>
+</head>
+<body>
+
+<p>2121051477 Lê Hà My</p>
+
+<p class="myclass">2121051477 Lê Hà My</p>
+
+<p id="myid">2121051477 Lê Hà My</p>
+
+</body>
+</html>
+
+
